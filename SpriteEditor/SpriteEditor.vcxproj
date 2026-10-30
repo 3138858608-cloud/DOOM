@@ -133,6 +133,8 @@
     <ClCompile Include="SpriteEditor.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="fps_fireball1.spr" />
+    <None Include="fps_lamp1.spr" />
     <None Include="fps_wall1.spr" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

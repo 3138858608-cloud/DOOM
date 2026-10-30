@@ -103,7 +103,7 @@ private:
 protected:
 	virtual bool OnUserCreate() {
 		sprite = new olcSprite(32, 32);
-		sCurrentSpriteFile = L"fps_wall1.spr";
+		sCurrentSpriteFile = L"fps_fireball1.spr";
 		return TRUE;
 	}
 	virtual bool OnUserUpdate(float felapsedTime) {

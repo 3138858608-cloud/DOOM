@@ -28,5 +28,11 @@
     <None Include="fps_wall1.spr">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="fps_lamp1.spr">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="fps_fireball1.spr">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
