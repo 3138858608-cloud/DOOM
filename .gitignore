@@ -1,0 +1,29 @@
+# Visual Studio cache
+.vs/
+
+# Build output directories
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.idb
+*.iobj
+*.ipdb
+*.recipe
+*.tlog/
+
+# Visual Studio user settings
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
