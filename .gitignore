@@ -1,0 +1,35 @@
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+out/
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.recipe
+*.idb
+*.pch
+*.lastbuildstate
+*.Build.CppClean.log
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
